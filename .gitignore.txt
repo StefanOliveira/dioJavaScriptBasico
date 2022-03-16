@@ -1,2 +1,3 @@
 # Ignorar slides
 *.pptx
+*.pdf
