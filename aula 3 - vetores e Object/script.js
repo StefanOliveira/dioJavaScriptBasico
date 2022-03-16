@@ -53,12 +53,4 @@ var { String, boolean, objectInterno} = object;
 console.log(String, boolean, objectInterno);
 
 
-// Calculo Celsius para Farenheit
-function conversorTemperatura(celsius) {
-    var farenheit = (celsius * 1.8) + 32;
-    
-    console.log("Farenheit: " + farenheit);
 
-}
-
-conversorTemperatura(35);
